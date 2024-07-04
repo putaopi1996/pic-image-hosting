@@ -1,2 +1,2 @@
-# pic-image-hosting
-pic-image hosting
+# A blank world
+A blank world
